@@ -1,4 +1,4 @@
 Bryn-Mawr-Engineers-Makers
 ==========================
 
-Repository f
+This is the future website of the Bryn Mawr Makers and Engineers.
